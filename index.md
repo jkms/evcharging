@@ -28,12 +28,14 @@ Please note that this price includes the annual subscription cost of $210 to SWT
 
 To summarize the costs of installation, if your parking stall is 2 stalls from a junction box, then your cost would be:
 
+```
 $550 for the conduit to the junction box
 + 
 $1,960 for the charger and fees
 = $2,510 before tax
 + 5% GST
 = $2,635.5
+```
 
 For this first wave of installs, I am gathering all of this information for the residents prepared to purchase a charger and entering it into an interactive quote.  If you would like to see that quote system, it is available here: https://tcaelectric.proposify.com/preview/VzBzZUxEc0gvRkxHYU1yVDVTTk1Xdz09
 
