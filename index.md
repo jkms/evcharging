@@ -9,20 +9,20 @@ Assuming you're not in one of the aforementioned stalls, then we need to calcula
 * $725 - There's an available junction box two stalls away from your stall
 
 These costs cover the following as needed:
-# Metal Conduit From Existing Junction Box
-# New Junction Box
-# Armored Cable From Junction Box To Charger
-# Mounting of a Level 2 Charger To Wall
+* Metal Conduit From Existing Junction Box
+* New Junction Box
+* Armored Cable From Junction Box To Charger
+* Mounting of a Level 2 Charger To Wall
 
 
 Finally, the bulk of the cost is the charger itself and activation fees.  The costs break down like this:
 
 Level 2 charger: $1,960
 
-# SWTCH Joint Tech 32Amp Level 2 Charger x 1
-# Commissioning
-# One Time SWTCH Activation Fee - $75
-# 1-Years Of SWTCH Management - $210
+* SWTCH Joint Tech 32Amp Level 2 Charger x 1
+* Commissioning
+* One Time SWTCH Activation Fee - $75
+* 1-Years Of SWTCH Management - $210
 
 Please note that this price includes the annual subscription cost of $210 to SWTCH.  This fee is paid yearly by every resident with a charger.  The fee is per charger, and is our cost to SWTCH for operating their service.
 
