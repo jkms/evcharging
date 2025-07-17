@@ -1,4 +1,4 @@
-First and foremost, if you're parking stall is in the range of R27 --> R32, you're currently missing hte electrical runs to have an EV Charger installed.  Be advised that I am in communication with Bucci regarding this, and hope to have them remediate this without any cost to us (I can't promise that, but I will share updates as they become available to me)
+First and foremost, if you're parking stall is in the range of R27 --> R32, you're currently missing hte electrical runs required to have an EV Charger installed.  Be advised that I am in communication with Bucci regarding this, and hope to have them remediate this without any cost to us (I can't promise that, but I will share updates as they become available to me)
 
 ## Installation Costs
 
