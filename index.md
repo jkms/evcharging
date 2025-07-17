@@ -26,15 +26,41 @@ Level 2 charger: $1,960
 
 Please note that this price includes the annual subscription cost of $210 to SWTCH.  This fee is paid yearly by every resident with a charger.  The fee is per charger, and is our cost to SWTCH for operating their service.
 
-To summarize the costs of installation, if your parking stall is 2 stalls from a junction box, then your cost would be:
+To summarize the costs of installation, if your parking stall has a junction box then your installation cost should be **$2,373**:
 
 ```
-$550 for the conduit to the junction box
-+ 
-$1,960 for the charger and fees
-= $2,510 before tax
-+ 5% GST
-= $2,635.5
+$300 conduit
++$1960 charger
+-----------------
+$2,260 subtotal
++$113 GST
+=================
+$2,373 Total
+```
+
+
+if your parking stall is one stall away from a junction box then your installation cost should be **$2,635.5**:
+
+```
+550 conduit
++$1960 charger
+-----------------
+$2,510 subtotal
++125.50 GST
+=================
+$2,635.5 Total
+```
+
+If your parking stall is two stalls away from a junction box then your installation cost should be **$2,819.25**:
+
+```
+$725 conduit
++$1960 charger
+-----------------
+$2,685 subtotal
++134.25 GST
+=================
+$2,819.25 Total
 ```
 
 For this first wave of installs, I am gathering all of this information for the residents prepared to purchase a charger and entering it into an interactive quote.  If you would like to see that quote system, it is available here: https://tcaelectric.proposify.com/preview/VzBzZUxEc0gvRkxHYU1yVDVTTk1Xdz09
