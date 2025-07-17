@@ -1,8 +1,8 @@
-First and foremost, if you're parking stall is in the range of R27 --> R32, you're currently missing hte electrical runs required to have an EV Charger installed.  Be advised that I am in communication with Bucci regarding this, and hope to have them remediate this without any cost to us (I can't promise that, but I will share updates as they become available to me)
+First and foremost, if your parking stall is in the range of R27 --> R32, you're currently missing the electrical circuits required to have an EV Charger installed.  Be advised that I am in communication with Bucci regarding this, and hope to have them remediate this without any cost to us (I can't promise that, but I will share updates as they become available to me).
 
 ## Installation Costs
 
-Assuming you're not in one of the aforementioned stalls, then we need to calculate the cost of installation based on your distance from the nearest junction box.  Please advise which option applies to you
+Assuming you're not in one of the aforementioned stalls, then we need to calculate the cost of installation based on your distance from the nearest junction box.  Please advise which option applies to you:
 
 * $300 - There's an available junction box at your stall
 * $550 - There's an available junction box one stall away from your stall
@@ -45,11 +45,11 @@ For this first wave of installs, I am gathering all of this information for the 
 The price for electricity is $1.40/hour, prorated (in Canada, you need a special utilities license to sell electricity by the kWh, so the way around this is to charge by the hour).  Please note that this cost is prorated, meaning that if you're charging on the same circuit as another resident, and you're both drawing 50% power, then you'll only be charged $0.70/hour.
 
 
-And finally, we're also registering for the BC Carbon credits program.  To breifly oversimplify this, the act of charging an EV for a years is considered a Carbon Offset, and the credit for this is then sold to a broker who will bundle these credits and resell them to the likes of Shell or Petro Canada or any other large, Carbon intensive corporation.  This results in a cash rebate for residents with EV Chargers.
+And finally, we're also registering for the BC Carbon credits program.  To briefly oversimplify this, the act of charging an EV for a year is considered a Carbon Offset, and the credit for this is then sold to a broker who will bundle these credits and resell them to the likes of Shell or Petro Canada or any other large, Carbon intensive corporation.  This results in a cash rebate for residents with EV Chargers.
 
 More details here: https://swtchenergy.com/blog/incentives/incentive-empowering-greener-communities-how-carbon-credits-fund-ev-charging-in-bc-condos-and-apartments/
 
-I cannot offer any guestimates on how much these rebates may be worth, as they're subject to market conditions and goverment policy.  It could be a lot one year, and then next to nothing the following year, and may be cancelled at any time.  But, it's basically free money for anyone with an EV Charger while the program lasts, so we might as well take it.
+I cannot offer any guestimates on how much these rebates may be worth, as they're subject to market conditions and government policy.  It could be a lot one year, and then next to nothing the following year, and may be cancelled at any time.  But, it's basically free money for anyone with an EV Charger while the program lasts, so we might as well take it.
 
 
 ## FAQ:
